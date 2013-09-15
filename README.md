@@ -1,4 +1,4 @@
 zamponia
 ========
 
-Simulador de zampoña HTML5
+Simulador de zampoña solo con HTML5, Javascript y CSS3
